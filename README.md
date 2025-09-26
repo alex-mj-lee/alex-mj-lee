@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Lee
 
-Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada
+Self Taught Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada
 
 ---
 
