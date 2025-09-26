@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex Lee  
 
-<!--
-**alex-mj-lee/alex-mj-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-Blockchain-blue)
+
+---
+
+## 📂 Featured Projects
+- [**Coupling – AI-powered Dating App**](https://github.com/alex-mj-lee/coupling)  
+  Premium dating app for global Koreans. React Native + AI matchmaking.  
+
+- [**AI Vault on Sui**](https://github.com/alex-mj-lee/ai-vault)  
+  Smart contract vault for DeFi yield optimization on Sui blockchain.  
+
+- [**Multi-LLM Chat Interface**](https://github.com/alex-mj-lee/multi-llm-chat)  
+  Next.js interface to compare responses across multiple LLMs.  
+
+---
+
+## 📫 Connect
+- Email: alex.lee@example.com  
+- [LinkedIn](https://linkedin.com/in/alex-mj-lee)
