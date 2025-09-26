@@ -62,4 +62,4 @@ Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada
 ## 📫 Connect
 - Email: alex.lee@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/alexmjlee/)
-- [Portfolio] (https://helpful-shark-1c3.notion.site/Hello-I-m-Alex-Lee-276f0d49f6a0807cac4fd9c8a05574be)
+- [Portfolio](https://helpful-shark-1c3.notion.site/Hello-I-m-Alex-Lee-276f0d49f6a0807cac4fd9c8a05574be)
