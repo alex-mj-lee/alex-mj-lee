@@ -5,17 +5,6 @@ Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada
 ---
 
 ## 🚀 Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-Blockchain-blue)
-# 👋 Hi, I'm Alex Lee  
-
-Software Engineer | Fullstack & Web3/Blockchain | Toronto, Canada  
-
----
-
-## 🚀 Tech Stack
 
 | Skill            | Proficiency |
 | ---------------- | ----------- |
